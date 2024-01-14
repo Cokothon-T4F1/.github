@@ -20,7 +20,7 @@
     <td><a href="https://github.com/bentshrimp"><img src="https://github.com/bentshrimp.png" width=200></a></td>
   </tr>
   <tr align = "center">
-    <td><a href = "https://github.com/chennielee">이채은</a> <br> PM, Frontend Developer</td>
+    <td><a href = "https://github.com/chennielee">이채은</a> <br> PM <br> Frontend Developer</td>
     <td><a href = "https://github.com/rladusdn02">김연우</a> <br> Frontend Developer</td>
     <td><a href = "https:/https://github.com/hyoeunjoo">주효은</a> <br> Frontend Developer</td>
     <td><a href = "https://github.com/MJspace"> 사민주</a> <br> Frontend Developer</td>
