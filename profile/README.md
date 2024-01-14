@@ -6,10 +6,6 @@
 
 </div>
 
-<!-- 
-<img src="https://github.com/market-capitalization/.github/blob/main/img/0001.jpg?raw=true"/>
--->
-
 <br>
 
 ## 💸 Team. 8팀 T4F2
@@ -17,11 +13,11 @@
 <table align = "center">
   <tr align = "center">
     <td><a href="https://github.com/chennielee"><img src="https://github.com/chennielee.png" width=200></a></td>
-    <td><a href="https://github.com/rladusdn02"><img src="https://avatars.githubusercontent.com/u/96935231?v=4" width=200></a></td>
-    <td><a href="https://github.com/hyoeunjoo"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
-    <td><a href="https://github.com/MJspace"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
-    <td><a href="https://github.com/BlueBerrySoda"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
-    <td><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
+    <td><a href="https://github.com/rladusdn02"><img src="https://github.com/rladusdn02.png" width=200></a></td>
+    <td><a href="https://github.com/hyoeunjoo"><img src="https://github.com/hyoeunjoo.png" width=200></a></td>
+    <td><a href="https://github.com/MJspace"><img src="https://github.com/MJspace.png" width=200></a></td>
+    <td><a href="https://github.com/BlueBerrySoda"><img src="https://github.com/BlueBerrySoda.png" width=200></a></td>
+    <td><a href="https://github.com/bentshrimp"><img src="https://github.com/bentshrimp.png" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/chennielee">이채은</a> <br> PM, Frontend Developer</td>
