@@ -31,21 +31,18 @@
 </table>
 <br>
 
-## 💸 주요 기능
-
-<div align=center> 
-<img width="85%" src="https://github.com/market-capitalization/.github/blob/main/img/0017.jpg?raw=true"/>
-</div>
+## 🎧 주요 기능
 
 - 매일 3개의 새로운 토픽이 주어지며, 익명 사용자는 원하는 토픽과 관련된 자신의 경험 작성 ✏️
 - 익명 글쓴이가 작성한 글에 '웃겨요' '기뻐요' '슬퍼요' '힘내요' 로 공감한 후 추천해주고픈 노래를 작성
 - 4개의 카테고리 별로 추천받은 노래들이 자동으로 플레이리스트로 만들어짐  
 - 모든 사용자들은 해당 사연과 관련된 총 4개의 감정 플레이리스트를 확인, 재생 할 수 있음 🔀
 
+## 🌐주요 서비스 화면
 <table align = "center">
   <tr align = "center">
-    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0018.jpg?raw=true"/></td>
-    <td><img src="https://github.com/market-capitalization/.github/blob/main/img/0019.jpg?raw=true"/></td>
+    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/b45d9931-25e3-4739-9368-83f835623bfd"/></td>
+    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/817f5392-130e-4de4-a165-ed4048a3a6bd"/></td>
   </tr>
 </table>
 
