@@ -41,11 +41,10 @@
 ## 🌐주요 서비스 화면
 <table align = "center">
   <tr align = "center">
-    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/b45d9931-25e3-4739-9368-83f835623bfd"/></td>
-    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/817f5392-130e-4de4-a165-ed4048a3a6bd"/></td>
+    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/94d5d62f-e622-4e63-86ef-50aa241909bf"/></td>
+    <td><img src="https://github.com/Cokothon-T4F1/.github/assets/126068623/1573be3b-2115-4b47-a148-0563adf28a3a"/></td>
   </tr>
 </table>
-
 
 <br>
 
