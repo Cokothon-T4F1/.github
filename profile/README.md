@@ -1,7 +1,7 @@
 <div align=center> 
 
 제 2회 숙명여대 x 국민대 연합 해커톤 COKOTHON - 🏆️대상🏆️ 수상작
-#  서비스 'WRIGGLE'
+# 친구들이 만들어주는 나를 위한 플레이리스트 서비스 'WRIGGLE'
 나의 이야기에 대해 익명의 사람들이 어울리는 노래를 추천하여, 플레이리스트로 만들어주는 서비스
 
 </div>
@@ -16,18 +16,20 @@
 
 <table align = "center">
   <tr align = "center">
-    <td><a href="https://github.com/cyndii20"><img src="https://avatars.githubusercontent.com/u/90389093?v=4" width=200></a></td>
-    <td><a href="https://github.com/5jisoo"><img src="https://avatars.githubusercontent.com/u/96935231?v=4" width=200></a></td>
-    <td><a href="https://github.com/chaeging"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
-    <td><a href="https://github.com/chennielee"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
+    <td><a href="https://github.com/chennielee"><img src="https://github.com/chennielee.png" width=200></a></td>
+    <td><a href="https://github.com/rladusdn02"><img src="https://avatars.githubusercontent.com/u/96935231?v=4" width=200></a></td>
+    <td><a href="https://github.com/hyoeunjoo"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
+    <td><a href="https://github.com/MJspace"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
+    <td><a href="https://github.com/BlueBerrySoda"><img src="https://avatars.githubusercontent.com/u/122455485?v=4" width=200></a></td>
+    <td><a href="https://github.com/bentshrimp"><img src="https://avatars.githubusercontent.com/u/126068623?v=4" width=200></a></td>
   </tr>
   <tr align = "center">
     <td><a href = "https://github.com/chennielee">이채은</a> <br> PM, Frontend Developer</td>
-    <td><a href = "https://github.com/chennielee">김연우</a> <br> Frontend Developer</td>
-    <td><a href = "https://github.com/chennielee">주효은</a> <br> Frontend Developer</td>
-    <td><a href = "https://github.com/cyndii20"> 사민주</a> <br> Frontend Developer</td>
-    <td><a href = "https://github.com/5jisoo">채원찬</a> <br> Backend Developer </td>
-    <td><a href = "https://github.com/chaeging">박진우</a> <br> Backend Developer </td>
+    <td><a href = "https://github.com/rladusdn02">김연우</a> <br> Frontend Developer</td>
+    <td><a href = "https:/https://github.com/hyoeunjoo">주효은</a> <br> Frontend Developer</td>
+    <td><a href = "https://github.com/MJspace"> 사민주</a> <br> Frontend Developer</td>
+    <td><a href = "https://github.com/BlueBerrySoda">채원찬</a> <br> Backend Developer </td>
+    <td><a href = "https://github.com/bentshrimp">박진우</a> <br> Backend Developer </td>
   </tr>
 
 </table>
