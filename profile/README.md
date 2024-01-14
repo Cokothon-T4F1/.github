@@ -8,7 +8,7 @@
 
 <br>
 
-## 💸 Team. 8팀 T4F2
+## 🎶 Team. 8팀 T4F2
 
 <table align = "center">
   <tr align = "center">
